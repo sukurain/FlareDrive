@@ -1,6 +1,6 @@
 {
   "name": "FlareDrive",
-  "theme_color": "#f38020",
+  "theme_color": "#d5e8fb",
   "display": "standalone",
   "start_url": "/",
   "icons": [
