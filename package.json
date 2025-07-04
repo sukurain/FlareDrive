@@ -1,7 +1,7 @@
 {
-  "name": "flaredrive-r2",
+  "name": "FlareDrive",
   "version": "0.0.2",
-  "description": "😁基于cloudflare-r2实现的网盘，可以实现文件分享功能",
+  "description": "基于cloudflare-r2实现的网盘",
   "scripts": {
     "dev": "wrangler pages dev . --r2 BUCKET"
   },
