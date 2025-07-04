@@ -16,8 +16,8 @@ export default {
   name: "Footer",
   data() {
     return {
-      blogUrl: "https://blog.liushen.fun/",
-      githubUrl: "https://github.com/willow-god",
+      blogUrl: "https://snell.us.kg",
+      githubUrl: "https://github.com/emokui",
     };
   }
 };
